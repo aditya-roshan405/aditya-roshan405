@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋 Hi, I'm Aditya
 
-<!--
-**aditya-roshan405/aditya-roshan405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student with a strong interest in **AI/ML, cybersecurity, and real-world problem solving**.
 
-Here are some ideas to get you started:
+I enjoy learning about the way things work, like **machine learning models**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current projects:
+* Machine Learning projects (CICIDS2017, XGBoost, Stacking models)
+* Python applications
+* Problem-solving 
+
+I'm interested in:
+* Artificial Intelligence & Data Analysis
+* Cybersecurity & Network Analysis
+
+Tech Stack:
+* Programming languages: Java, Python
+* Libraries/Tools: Scikit-learn, Pandas, NumPy
+* Machine Learning, Feature Engineering, Model Evaluation
+
+I'd like to:
+* Develop impactful AI-driven projects
+* Enhance computer science basics
+* Become industry-ready with strong computer science skills
+
+I'd like to:
+* Collaborate on machine learning/AI projects
+* Discuss learning opportunities
+
+*Let's connect and create something worthwhile!*

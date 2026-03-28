@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Aditya
+## 👋 Hi, My name is Aditya.
 
 Computer Science student with a strong interest in **AI/ML, cybersecurity, and real-world problem solving**.
 
